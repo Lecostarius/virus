@@ -12,6 +12,7 @@ The html file contains a javascript that downloads the trojan Wacatac.B!ml.
 ### pdf
 Here is the content of the .pdf attachment:
 
+7847834783478347834783478GHSD347R8YUFDJHKFDFGKSJDGFSK786YDFUSGKFSDFSD
 
 I cannot make sense out of it... maybe it is meant to lure people to click the html after they tried the pdf in vain?
 
