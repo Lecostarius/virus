@@ -10,8 +10,7 @@ I did a "curl -v https://fictional-dmk.vercel.app > virus.out", and seconds late
 and told me about a severe security issue, and quarantined the file.
 
 I could restore it and save it here in the repository but I will not - it might make it too easy to set up the
-same trap for some. Sure, they do not know what payload will be delivered which makes it less attractive, but
-I guess some might try just out of curiosity so I do not publish the downloaded code here.
+same trap and I want to stay on the bright side.
 
 ## Analysis
 
