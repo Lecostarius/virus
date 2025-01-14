@@ -6,6 +6,12 @@ On 14 Jan 2025 I received the following mail (Thunderbird as a mail program):
 
 There are two attachments, a html file and a pdf. The pdf is suspiciously short and actually not a pdf at all.
 The html file contains a javascript that downloads the trojan Wacatac.B!ml.
+I did a "curl -v https://fictional-dmk.vercel.app > virus.out", and seconds later MS Defender popped up
+and told me about a severe security issue, and quarantined the file.
+
+I could restore it and save it here in the repository but I will not - it might make it too easy to set up the
+same trap for some. Sure, they do not know what payload will be delivered which makes it less attractive, but
+I guess some might try just out of curiosity so I do not publish the downloaded code here.
 
 ## Analysis
 
